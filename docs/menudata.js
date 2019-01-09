@@ -104,6 +104,7 @@ var menudata={children:[
 {text:"File List",url:"files.html"},
 {text:"File Members",url:"globals.html",children:[
 {text:"All",url:"globals.html",children:[
+{text:"_",url:"globals.html#index__"},
 {text:"a",url:"globals.html#index_a"},
 {text:"b",url:"globals.html#index_b"},
 {text:"c",url:"globals.html#index_c"},
@@ -124,16 +125,7 @@ var menudata={children:[
 {text:"x",url:"globals.html#index_x"},
 {text:"y",url:"globals.html#index_y"},
 {text:"z",url:"globals.html#index_z"}]},
-{text:"Functions",url:"globals_func.html",children:[
-{text:"c",url:"globals_func.html#index_c"},
-{text:"d",url:"globals_func.html#index_d"},
-{text:"f",url:"globals_func.html#index_f"},
-{text:"g",url:"globals_func.html#index_g"},
-{text:"i",url:"globals_func.html#index_i"},
-{text:"m",url:"globals_func.html#index_m"},
-{text:"r",url:"globals_func.html#index_r"},
-{text:"t",url:"globals_func.html#index_t"},
-{text:"z",url:"globals_func.html#index_z"}]},
+{text:"Functions",url:"globals_func.html"},
 {text:"Typedefs",url:"globals_type.html"},
 {text:"Enumerations",url:"globals_enum.html"},
 {text:"Enumerator",url:"globals_eval.html",children:[

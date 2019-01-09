@@ -36,6 +36,7 @@ var params_8h =
       [ "WSIZE", "params_8h.html#a869e77c8856c40dc7369197ee4ee8059ab8317ae7816b83628f4e2bcff586e2f5", null ],
       [ "REORDER", "params_8h.html#a869e77c8856c40dc7369197ee4ee8059ac9424061a71de8a6a01763ef2e1c97b7", null ],
       [ "OVERLAP", "params_8h.html#a869e77c8856c40dc7369197ee4ee8059acb2f0de53b7bc584fc5838a34911189c", null ],
+      [ "PART_METHOD", "params_8h.html#a869e77c8856c40dc7369197ee4ee8059a467497eecd6354af8483eb0c79ce5d45", null ],
       [ "npx", "params_8h.html#a869e77c8856c40dc7369197ee4ee8059a2c6aa1c337918cdc9cbf0921ea631965", null ],
       [ "npy", "params_8h.html#a869e77c8856c40dc7369197ee4ee8059a6312e0341f7131bd95bd587158b9c4d2", null ],
       [ "npz", "params_8h.html#a869e77c8856c40dc7369197ee4ee8059ab8dc3eff14aabfc11dd8bd794d8ecc18", null ],

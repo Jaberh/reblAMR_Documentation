@@ -1,5 +1,6 @@
 var classTemplateForest =
 [
+    [ "TemplateForest", "classTemplateForest.html#a48ebaf92fb390fd229a2438f99145881", null ],
     [ "TemplateForest", "classTemplateForest.html#ab842720aca5e202357e399ba835565b7", null ],
     [ "~TemplateForest", "classTemplateForest.html#a65c47765d20e839f0cb08b2119b628da", null ],
     [ "appendToMessage", "classTemplateForest.html#a14f94cdb193a07e4488e3463c73f99e9", null ],
@@ -11,6 +12,7 @@ var classTemplateForest =
     [ "combinedLevel", "classTemplateForest.html#a3f0c01310e4f1b71e7d88c0f9e859b4d", null ],
     [ "comPatternConstruct", "classTemplateForest.html#aa8695400b06ec321a3378ea68dafe4a9", null ],
     [ "comPatternConstruct", "classTemplateForest.html#a797a20798c773480c74f6a4c410d6de3", null ],
+    [ "construct", "classTemplateForest.html#a6173898510ccf3f57a6b930a31f971dd", null ],
     [ "constructElementKeyForRcvdMessage", "classTemplateForest.html#ab6f0a6f80253a0253ed7882dfdf052ad", null ],
     [ "constructSeedKeyForRcvdMessage", "classTemplateForest.html#a6418c12f88e909d8fb69736e320f92b7", null ],
     [ "createCommGraph", "classTemplateForest.html#a5816e439571082d5a109ff626730159d", null ],
@@ -51,6 +53,7 @@ var classTemplateForest =
     [ "ancestorlength", "classTemplateForest.html#a0a371d168c81cf8be77b681c27c06409", null ],
     [ "Com", "classTemplateForest.html#a98136f14aec33e243ff65b68b89c5fdc", null ],
     [ "destination", "classTemplateForest.html#a31344621cbe88d961bdb70174ce8bbc9", null ],
+    [ "duplicated", "classTemplateForest.html#a97bc83d3ecc6492e272230f00fb0b9f5", null ],
     [ "geom", "classTemplateForest.html#a63125f7155297d70f8f189ffb17c9822", null ],
     [ "graphComm", "classTemplateForest.html#a55864067b34cf9807be0f42abb211b68", null ],
     [ "maxProcLevel", "classTemplateForest.html#ae3282ab0b3800e3f4c8b1fcfb9a6246e", null ],
